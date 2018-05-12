@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36678
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Robert_Harding
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34501#Wolf-and-Coyote-TrappingTrapping-These-Animals-Also-Gives-Their-Habits-in-Detail.
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
