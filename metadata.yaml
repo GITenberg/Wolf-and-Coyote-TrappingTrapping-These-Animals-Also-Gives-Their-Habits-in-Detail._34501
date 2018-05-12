@@ -1,0 +1,35 @@
+_repo: Wolf-and-Coyote-TrappingTrapping-These-Animals-Also-Gives-Their-Habits-in-Detail._34501
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34501-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harding, A. R. (Arthur Robert)
+    alias: Harding, Arthur Robert
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '36678'
+    url: http://www.gutenberg.org/2009/agents/36678
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Robert_Harding
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34501'
+  lccn: 09028707
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coyote'
+- !lcc 'SK'
+- !lcsh 'Wolf hunting'
+title: "Wolf and Coyote Trapping: An Up-to-Date Wolf Hunter's Guide\r\nGiving the\
+  \ Most Successful Methods of Experienced \"Wolfers\" for Hunting and Trapping These\
+  \ Animals, Also Gives Their Habits in Detail."
+url: http://www.gutenberg.org/ebooks/34501
